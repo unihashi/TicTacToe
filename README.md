@@ -5,7 +5,7 @@ this game is support any size of Tic Tac Toe all you need is only change GameSiz
 
 "val GameSize = 3"
 
-this coordinates in this game is 2d array (row,collumn) you need to enter input row and input collumn once you play the game
+this coordinates in this game is 2d array (row,column) you need to enter input row and input column once you play the game
 
 For example :
 
