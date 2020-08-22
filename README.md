@@ -11,27 +11,27 @@ var board = Array(ROWS) { IntArray(COLLUMNS)}
 
 this coordinates in this game is 2d array (row,collumn) you need to enter input row and input collumn once you play the game
 
-  player 'o' enter the coordinates : 
-2
-1
-  x  |     |    
- ---------------
-  o  |  x  |    
- ---------------
-     |  o  |    
+For example :
+
+          player 'o' enter the coordinates : 2 1
+          
+           x |   |
+          -----------
+           o | x |
+          -----------
+             | o |
+             
+          player 'x' enter the coordinates : 2 2
+          
+           x |   |
+          -----------
+           o | x |
+          -----------
+             | o | x
+             
+          player 'x' won!
 
 
-  player 'x' enter the coordinates : 
-2
-2
-  x  |     |    
- ---------------
-  o  |  x  |    
- ---------------
-     |  o  |  x 
-
-
-player 'x' won!
 
 
 
